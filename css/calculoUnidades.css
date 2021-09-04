@@ -1,5 +1,5 @@
 body {
-    background-color: #4a73ca;
+    background-color: #082970;
     margin: 30px 10px;
    }
    caption {
@@ -20,7 +20,22 @@ body {
 
    .oper{
     margin: 170px auto;
+    padding: 5px;
     width: 600px;
     border: black;
-    background-color: rgb(71, 250, 146);
+    background-color: rgb(19, 231, 107);
    }
+   li{
+       list-style: none;
+       padding: 5px 10px 5px 65px;
+       display: inline-block; 
+   }
+   #tablas{
+    border: outset 1px rgb(76, 0, 255);
+   }
+   a[class="a"]{
+    text-decoration: none;
+    text-align: center;
+    padding-left: 43%;
+  }
+  
